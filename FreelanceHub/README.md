@@ -40,6 +40,7 @@
 *   [Notification Service DB.jpg](https://github.com/petprojects/FreelanceHub/blob/main/diagrams/Notification%20Service%20DB.jpg) (ER-диаграмма базы данных Notification Service, спроектирована с помощью DBML)
 *   [Order & Project Service DB.jpg](https://github.com/petprojects/FreelanceHub/blob/main/diagrams/Order%20&%20Project%20Service%20DB.jpg) (ER-диаграмма базы данных Order & Project Service, спроектирована с помощью DBML)
 *   [Payment Service DB.jpg](https://github.com/petprojects/FreelanceHub/blob/main/diagrams/Payment%20Service%20DB.jpg) (ER-диаграмма базы данных Payment Service, спроектирована с помощью DBML)
+
 ---
 
 ## 🛠️ **Используемые Инструменты, Нотации и Технологии**
